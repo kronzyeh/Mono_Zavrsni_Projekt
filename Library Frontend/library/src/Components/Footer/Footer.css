@@ -1,0 +1,17 @@
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 8vh;
+    background-color: #a08e72;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+}
+
+.first-paragraph {
+    margin-bottom: -0.5rem;
+}

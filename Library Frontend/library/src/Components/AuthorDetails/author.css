@@ -1,0 +1,26 @@
+.add-author-content {
+    margin-top:30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom:230px;
+}
+
+.add-author-inputs {
+    padding: 1rem;
+    margin: 1rem 0;
+}
+
+.ad-author-buttons-container {
+    display: flex;
+    margin: 4rem;
+    margin-bottom:100px;
+}
+
+.add-author-buttons {
+    padding: 1rem 2rem;
+    margin: 0 2rem;
+    cursor:pointer;
+}
+

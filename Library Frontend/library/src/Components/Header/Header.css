@@ -1,0 +1,60 @@
+.header-container {
+  height: 10vh; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #C5E3EC; 
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%; 
+  max-width: 1200px; 
+  margin: 0 auto; 
+  background-color: #C5E3EC;
+  box-sizing: border-box;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 2.5rem;
+}
+
+.header-buttons {
+  display: flex;
+  gap: 1rem;
+}
+
+.header-item {
+  display: flex;
+  align-items: center;
+}
+
+.btn {
+  color: #999;
+  background: rgba(0, 0, 0);
+  padding: 10px 20px;
+  text-decoration: none;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  cursor:pointer;
+}
+
+.btn:hover {
+  border: none;
+  background: rgba(0, 0, 0, 0.4);
+  background: #fff;
+  padding: 20px 20px;
+  color: #1b1b1b;
+}
+
+/* Rest of the CSS remains the same */

@@ -1,0 +1,21 @@
+.add-genre-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.add-genre-inputs {
+    padding: 1rem;
+    margin: 1rem 0;
+}
+
+.ad-genre-buttons-container {
+    display: flex;
+    margin: 4rem;
+}
+
+.add-genre-buttons {
+    padding: 1rem 2rem;
+    margin: 0 2rem;
+}

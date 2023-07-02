@@ -1,0 +1,26 @@
+.add-new-reservation-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin:auto;
+}
+
+.add-new-reservation-labels {
+    margin: 2rem 0;
+}
+
+.add-new-reservation-inputs {
+    padding: 1rem;
+    width: 70%;
+}
+
+.add-new-reservation-buttons-container {
+    display: flex;
+    margin: 4rem;
+}
+
+.add-new-reservation-buttons {
+    padding: 1rem 4rem;
+    margin: 0 2rem;
+}

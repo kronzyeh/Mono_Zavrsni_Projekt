@@ -1,0 +1,39 @@
+.my-reservations {
+    border: 1px solid black;
+    height: 80vh;
+}
+.reservation-list {
+  align-items: center;
+    margin-top: 20px;
+    width: 100%;
+    margin-bottom:60vh;
+}
+  .reservation-list h2{
+    text-align:center;
+  }
+  .reservation-list table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-right:5px;
+    margin-left:5px;
+  }
+  
+  .reservation-list th,
+  .reservation-list td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .reservation-list th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+    text-align: left;
+  }
+  
+  .reservation-list tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .reservation-list tbody tr:hover {
+    background-color: #eaf2f8;
+  }

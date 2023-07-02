@@ -1,0 +1,11 @@
+/*
+    This css file is used on multiple pages so there is no code duplication.
+*/
+
+.body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    height: 85vh;
+}
